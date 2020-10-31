@@ -1,0 +1,9 @@
+[
+    {
+        "structure": {
+            "tables": {
+                "Filmes": "([Id] PRIMARY KEY, [Nome] TEXT)"
+            }
+        }
+    }
+]
