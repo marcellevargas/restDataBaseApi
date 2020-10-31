@@ -1,0 +1,22 @@
+{
+  "name": "restdatabaseapi",
+  "version": "1.0.0",
+  "description": "API para fornecer as informações do banco de dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcellevargas/restDataBaseApi.git"
+  },
+  "author": "Marcelle Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcellevargas/restDataBaseApi/issues"
+  },
+  "homepage": "https://github.com/marcellevargas/restDataBaseApi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
